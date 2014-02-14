@@ -1,6 +1,12 @@
 Wanderkid Website
 ==
 
+Team Members:
+
+Eunice Reyes
+Floyd De Santos
+
+
 [ core files ]
 
 This repository will contain the core files of the project.
