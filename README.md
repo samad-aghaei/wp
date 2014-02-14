@@ -7,3 +7,5 @@ This repository will contain the core files of the project.
 
 
 wordpress 3.8.1
+
+-Project runs in wordpress
